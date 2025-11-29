@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me  
 I'm currently pursuing my BSc in Artificial Intelligence & Data Science, with a strong interest in practical machine learning, data engineering, and clean UI/UX design.  
-I enjoy working on end-to-end systems — from data pipelines and models to interfaces that feel simple and intuitive.  
+I enjoy working on end-to-end systems - from data pipelines and models to interfaces that feel simple and intuitive.  
 Outside of tech, I’m big into football and a long-time Iron Man fan.
 
 ---
